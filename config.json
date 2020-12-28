@@ -20,6 +20,11 @@
             "url": "https://dev.eyeseetea.com/who-dev",
             "port": 8084
         },
+	{
+            "name": "who-new-dev",
+            "url": "https://dev.eyeseetea.com/who-new-dev",
+            "port": 8085
+        },
         {
             "name": "who-discovery",
             "url": "https://dev.eyeseetea.com/who-discovery",
