@@ -11,6 +11,11 @@
             "port": 8071
         },
         {
+            "name": "country-support",
+            "url": "https://dev.eyeseetea.com/country-support",
+            "port": 8072
+        },
+        {
             "name": "nrc",
             "url": "https://dev.eyeseetea.com/nrc",
             "port": 8082
